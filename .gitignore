@@ -1,0 +1,28 @@
+# Dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Optional npm cache directory
+.npm
+
+# Build directories
+dist/
+build/
+out/
+
+# Environment variables
+.env
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.swn
+*.bak
+*~
+.DS_Store
